@@ -36,9 +36,17 @@ LCD screens are pretty cheap and its honestly hard to find them WITHOUT touchscr
 
 crash detection??? idk WHY but we COULD.
 
+loss of traction detection, idk how 
+
+g force measurement? it prolly wont be a lot 
+
+max verstappen theme plays whenever you reach max speed (aiden idea)
+
+
+
 ## issues?? idk
 
-i didnt know where else to put this but obviously waterproofing is an issue. the LED strips i put up there are weather proof, but the GPS and screens wouldnt be. how would we fix this?? idk Saran Wrap it. duct tape and ziplock bags and saran wrap.
+i didnt know where else to put this but obviously **waterproofing** is an issue. the LED strips i put up there are weather proof, but the GPS and screens wouldnt be. how would we fix this?? idk Saran Wrap it. duct tape and ziplock bags and saran wrap.
 
 
 
