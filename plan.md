@@ -2,6 +2,9 @@
 
 alright I don't have much here we go
 
+## Arduino Wiring Mock up
+https://wokwi.com/projects/385918773253926913
+
 
 ## Micro Controller
 
