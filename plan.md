@@ -44,7 +44,7 @@ g force measurement? it prolly wont be a lot
 
 max verstappen theme plays whenever you reach max speed (aiden idea)
 
-
+Engine Killswitch for throttle snaps and other incidents. Use the Mower Logic Diagram.
 
 ## issues?? idk
 
